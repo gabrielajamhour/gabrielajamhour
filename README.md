@@ -11,8 +11,5 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielajamhour&theme=dark" height="150"/>
   <img src="https://streak-stats.demolab.com/?user=gabrielajamhour&theme=dark" height="150"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielajamhour&layout=compact&theme=dark" height="150"/>
 </p>
