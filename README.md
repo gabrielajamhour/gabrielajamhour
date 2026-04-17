@@ -2,7 +2,7 @@
 I’m a software engineering and business student passionate about turning ideas into real projects, building solutions that combine technology and business impact.
 
 ## 🌐 Socials:
-<p align="center">
+<p>
   <a href="https://instagram.com/gabijamhour">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -15,7 +15,7 @@ I’m a software engineering and business student passionate about turning ideas
 </p>
 
 # 💻 Tech Stack:
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
