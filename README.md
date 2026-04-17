@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 <br>Trying to turn ideas into real projects — currently building my portfolio and experimenting with tech + business concepts.<br><br>🤝 <br>Open to collaborating on anything creative, useful, or impactful (especially if it mixes tech and business).<br><br>🆘 <br>Making my code cleaner and more structured — always learning how to do things “the right way”.<br><br>🌱 <br>Web development, data-driven thinking, and building things that actually solve problems.<br><br>💬 <br>Studying abroad, productivity, and navigating life as a tech + business student.<br><br>⚡ <br>I tend to overthink ideas… but then I build them anyway.
+I’m a software engineering and business student passionate about turning ideas into real projects, building solutions that combine technology and business impact.
 
 # 🌐 Socials:
 <p align="center">
