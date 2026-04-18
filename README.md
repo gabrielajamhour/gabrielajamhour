@@ -25,7 +25,7 @@ I’m a software engineering and business student passionate about turning ideas
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielajamhour&theme=dark" height="150"/>
-  <img src="https://streak-stats.demolab.com/?user=gabrielajamhour&theme=dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielajamhour&layout=compact&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielajamhour&theme=default" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=gabrielajamhour&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielajamhour&layout=compact&theme=default" height="150"/>
 </p>
